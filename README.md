@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Autonomous Matrix on Virtual Module Outlet
+# Autonomous Payment Matrix on Virtual Module Outlet
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
