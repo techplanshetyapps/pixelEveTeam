@@ -40,6 +40,24 @@ The platform is designed to tackle advanced hackathon and open innovation challe
 
 ---
 
+## <i class="bi bi-database-fill-gear"></i> Chosen Datasets for Analysis
+
+The following datasets have been selected as the primary sources for training, validation, and testing across our defined problem statements, chosen for their diversity in domain complexity and structure.
+
+### <i class="bi bi-shield-check"></i> Fraud Detection Dataset
+* **Source:** [kmasiak/FraudDetection](https://huggingface.co/kmasiak/FraudDetection)
+* **Application:** Serves as the backbone for anomaly detection and financial integrity workflows. It provides the structured transaction logs required to train robust models capable of identifying high-dimensional fraud patterns.
+
+### <i class="bi bi-controller"></i> Steam Games Dataset
+* **Source:** [FronkonGames/steam-games-dataset](https://huggingface.co/datasets/FronkonGames/steam-games-dataset)
+* **Application:** Utilized for digital entertainment analytics and discovery platforms. This dataset offers rich metadata—including user tags, genres, and pricing—allowing for the development of sophisticated recommendation engines and semantic search modules.
+
+### <i class="bi bi-file-earmark-text"></i> FEVER (Fact Extraction and VERification)
+* **Source:** [fever/fever](https://huggingface.co/datasets/fever/fever)
+* **Application:** Central to automated research and verification workflows. By providing a large-scale collection of human-generated claims paired with evidence-based validation, it enables models to handle multi-hop reasoning and verifiable automated reporting.
+
+---
+
 ## <i class="bi bi-cpu-fill"></i> Technology Stack & Architecture
 
 * **<i class="bi bi-server"></i> Backend:** Django Server (Python)
