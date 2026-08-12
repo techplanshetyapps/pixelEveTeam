@@ -16,25 +16,10 @@
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-<style>
-  .minecraft-font {
-    font-family: 'VT323', monospace !important;
-    letter-spacing: 1px;
-  }
-  .color-swatch {
-    display: inline-block;
-    width: 14px;
-    height: 14px;
-    border-radius: 3px;
-    vertical-align: middle;
-    margin-right: 4px;
-    border: 1px solid rgba(255,255,255,0.2);
-  }
-</style>
-
-<div class="minecraft-font" style="font-size: 1.45rem; line-height: 1.3; background: #18181b; color: #f4f4f5; padding: 20px; border-radius: 8px; border: 2px solid #3f3f46;">
+<div style="font-family: 'VT323', monospace !important; letter-spacing: 1px; font-size: 1.45rem; line-height: 1.3; background: #18181b; color: #f4f4f5; padding: 20px; border-radius: 8px; border: 2px solid #3f3f46;">
   <p align="center" style="color: #38bdf8; font-size: 1.8rem; margin-bottom: 10px;">
-    <i class="bi bi-controller"></i> SYSTEM PALETTE SPECIFICATIONS <i class="bi bi-controller"></i>
+ 
+ <i class="bi bi-controller"></i> SYSTEM PALETTE SPECIFICATIONS <i class="bi bi-controller"></i>
   </p>
   <p align="center">Normative color scheme applied across the virtual execution matrix:</p>
   <div align="center" style="margin: 15px 0;">
